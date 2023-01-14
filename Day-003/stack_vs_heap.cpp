@@ -4,7 +4,7 @@
 // memory is divided into manageable pieces called as segments
 // program divided the main memory into three parts - stack, heap and code section
 
-// static memory allocation --> momory required is decided at complie time
+// static memory allocation --> memory required is decided at complie time
 // int a and float b;
 // allocated "2 bytes"(for 32 bit compiler) for integer and "4 bytes" for float
 
