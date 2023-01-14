@@ -10,8 +10,8 @@ void func1(int n)
 {
     if (n > 0)
     {
-        func1(n - 1); // calling the same function again
         printf("%d\n", n);
+        func1(n - 1); // calling the same function again
     }
 }
 
