@@ -1,4 +1,4 @@
-// stack is a datastructure that work on principle last-in first-out / first-in last-out ( LIFO / FILO )
+// stack is a data structure that work on principle last-in first-out / first-in last-out ( LIFO / FILO )
 // stack is a colection of element, set of values that is inserted or deleted in following this principle
 // stack can be implemented using array / linked list
 
