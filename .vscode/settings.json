@@ -5,6 +5,7 @@
         "string_view": "cpp",
         "unordered_map": "cpp",
         "array": "cpp",
-        "initializer_list": "cpp"
+        "initializer_list": "cpp",
+        "random": "cpp"
     }
 }
